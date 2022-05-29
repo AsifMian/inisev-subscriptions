@@ -1,4 +1,4 @@
-please use v1 after like
+please use v1 after base_url like
 
 base-url/api/api/create-post
 base-url/api/api/subcribe-to-web
