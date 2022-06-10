@@ -1,8 +1,9 @@
-please use v1 after base_url like
+## please use v1 after base_url like
 
-base-url/api/api/create-post
-base-url/api/api/subcribe-to-web
+```
+base-url/api/v1/create-post
+base-url/api/v1/subcribe-to-web
+```
 
-
-update your env 
-smtp , db etc accordinly
+## Update your env 
+smtp , db etc accordingly
